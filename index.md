@@ -1,8 +1,7 @@
 ---
 layout: home
-title: Bienvenido
+title: Bien1337ido
 ---
 
-# ¡Hola!
-
-Esta es mi web personal y blog en GitHub Pages.
+¡Hola!  
+Aquí inicia mi nuevo "proyecto", sin promesas y sin encasillarme.
