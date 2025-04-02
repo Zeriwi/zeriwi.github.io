@@ -1,4 +1,6 @@
-title: 1337
-description: Web y blog
+title: 🐮1337🐮
+description: 1337
 author: 1337
 theme: minima
+header_pages:
+  - about.md
